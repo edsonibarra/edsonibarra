@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edson</h1>
-<h3 align="center">A passionate engineer that likes to create software</h3>
+<h3 align="center">Backend Python Developer</h3>
 
-- 🔭 I’m currently working on **DSA written in the most popular programming languages**
+- 🔭 I’m currently working on **gRPC API**
 
-- 🌱 I’m currently learning **Flask and AWS DynamoDB**
+- 🌱 I’m currently learning **gRPC**
 
 - 👯 I’m looking to collaborate on [Pytest project](https://docs.pytest.org/en/7.2.x/)
 
-- 💬 Ask me about **Python, Django, DSA, Math**
+- 💬 Ask me about **Python, Django, DSA, Flask**
 
 - 📫 How to reach me **edsonibarra on LinkedIn**
 
