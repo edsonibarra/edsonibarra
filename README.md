@@ -1,7 +1,5 @@
 <h1 align="center">Edson Ibarra</h1>
 <p align="center"><b>Senior AI Engineer</b> — building secure, production-grade LLM systems</p>
----
-
 ### About
 
 I'm a backend engineer who builds AI systems for production. My focus is the part
