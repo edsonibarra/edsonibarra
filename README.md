@@ -26,10 +26,10 @@ systems, RAG/GraphRAG pipelines, and LLM workflows for teams in fintech, e-comme
 
 ### Tech stack
 
-**Languages:** Python, JavaScript (TypeScript)
-**AI/LLM:** Google-ADK, LangGraph, LangChain, LlamaIndex, OpenAI / Anthropic APIs, Hugging Face.
-**Data:** PostgreSQL + pgvector, Neo4j, Pinecone / Qdrant / Weaviate, Redis
-**Backend:** Django, DRF, Flask, FastAPI, Celery, Kafka, Docker, Kubernetes
-**Cloud:** AWS, GCP, Azure — Terraform, GitHub Actions
+- **Languages:** Python, JavaScript (TypeScript)
+- **AI/LLM:** Google-ADK, LangGraph, LangChain, LlamaIndex, OpenAI / Anthropic APIs, Hugging Face
+- **Data:** PostgreSQL + pgvector, Neo4j, Pinecone / Qdrant / Weaviate, Redis
+- **Backend:** Django, DRF, Flask, FastAPI, Celery, Kafka, Docker, Kubernetes
+- **Cloud:** AWS, GCP, Azure — Terraform, GitHub Actions
 
 ---
