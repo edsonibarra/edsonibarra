@@ -1,12 +1,3 @@
-<h1 align="center">Hi 👋, I'm Edson</h1>
-<h3 align="center">Python Developer</h3>
-
-- 🔭 I’m currently working on **gRPC API**
-
-- 🌱 I’m currently learning **gRPC**
-
-- 👯 I’m looking to collaborate on [Pytest project](https://docs.pytest.org/en/7.2.x/)
-
-- 💬 Ask me about **Python, Django, DSA, Flask**
-
-- 📫 How to reach me **edsonibarra on LinkedIn**
+<h1 align="center">Hi, this is Edson</h1>
+<h2 align="center">Senior AI & Back-End Engineer | AI-Native development | Python | OSS | Linux</h2>
+<h3 align="center">Focused on building and architecting secure AI-Native solutions in different industry verticals</h3>
